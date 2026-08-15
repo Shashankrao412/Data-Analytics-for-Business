@@ -37,7 +37,10 @@ This project was developed as part of the **Data Analytics for Business** course
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+> <img width="1238" height="681" alt="image" src="https://github.com/user-attachments/assets/38668265-d161-435a-a15a-3c33531dec79" />
+<img width="1311" height="678" alt="image" src="https://github.com/user-attachments/assets/a285b123-fac2-40bd-811a-79f8ad253f50" />
+
+
 
 - Finance Dashboard
 - Expense & Variance Analysis
